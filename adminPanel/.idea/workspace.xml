@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3d70cdc-0d6c-4dd2-a4f2-c4574f664ed8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/spatie/image-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/webfonts" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/css" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/sprites" />
+      <path value="$PROJECT_DIR$/vendor/ps/image-optimizer" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/less" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/svgs" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/scss" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/js" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/scss" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Zg2KmRpMBZHDMaZtHX8r73HGc8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wbson" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\adminPanelFull" />
+      <recent name="C:\xampp\htdocs\adminPanel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3d70cdc-0d6c-4dd2-a4f2-c4574f664ed8" name="Default Changelist" comment="" />
+      <created>1585246357601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585246357601</updated>
+      <workItem from="1585246379709" duration="8638000" />
+      <workItem from="1585347327776" duration="799000" />
+      <workItem from="1585396080415" duration="2191000" />
+      <workItem from="1585409571530" duration="5864000" />
+      <workItem from="1585484141666" duration="1777000" />
+      <workItem from="1585572251416" duration="7970000" />
+      <workItem from="1585669835589" duration="608000" />
+      <workItem from="1585679813689" duration="5785000" />
+      <workItem from="1585756203255" duration="13091000" />
+      <workItem from="1585826263515" duration="632000" />
+      <workItem from="1586354242854" duration="2609000" />
+      <workItem from="1586375580725" duration="16840000" />
+      <workItem from="1586462742966" duration="1189000" />
+      <workItem from="1586972382705" duration="2076000" />
+      <workItem from="1587267025588" duration="3088000" />
+      <workItem from="1587302227225" duration="3777000" />
+      <workItem from="1587306853067" duration="6614000" />
+      <workItem from="1587338663415" duration="586000" />
+      <workItem from="1587340957392" duration="2662000" />
+      <workItem from="1589494291580" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585248910687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="469" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585248910687" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1589494727087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589494727087" />
+    <state x="574" y="297" key="NewPhpFileDialog" timestamp="1587267337807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="574" y="297" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1587267337807" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1589494360341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589494360340" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587305565834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587305565834" />
+  </component>
+</project>
