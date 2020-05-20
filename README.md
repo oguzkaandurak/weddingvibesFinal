@@ -1,2 +1,0 @@
-# wbson
- Wedding Vibes Project
